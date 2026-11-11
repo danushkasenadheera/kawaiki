@@ -1,0 +1,1881 @@
+[
+  {
+    "title": "Nature & Culture Tour",
+    "image": "/images/2025-06-leopard-kumana-thamara.webp",
+    "imageAlt": "Leopard resting on a tree branch during a wildlife expedition in Sri Lanka",
+    "duration": "8 DAYS 7 NIGHTS SRI LANKA TOUR – BEACHES, NATIONAL PARKS, BOTANICAL GARDENS & HILL COUNTRY",
+    "summary": "Experience the best of Sri Lanka in 8 unforgettable days. This expertly curated tour blends pristine beaches, scenic hill country, vibrant botanical gardens, and thrilling safaris in Yala and Bundala National Parks. Visit iconic sites like the Temple of the Tooth, Horton Plains, and the Galle Dutch Fort, while enjoying unique encounters—from baby elephants at Pinnawala to exotic orchids in Peradeniya. Ideal for nature lovers, wildlife enthusiasts, and culture seekers alike, this journey offers a perfect balance of adventure, relaxation, and rich heritage.",
+    "slug": "nature-culture-tour",
+    "hero": {
+      "src": "/images/2025-06-leopard-kumana-thamara.webp",
+      "alt": "Leopard resting on a tree branch during a wildlife expedition in Sri Lanka"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Colombo Airport to Kandy via Pinnawala",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "Arrival at Bandaranaike International Airport. Meet & assist by our representative.",
+          "Transfer to Kandy.",
+          "En route visit:",
+          "Pinnawala Elephant Orphanage: Witness baby elephants being bottle-fed and their daily river bath — perfect for photography.",
+          "Peradeniya Botanical Garden: View an extensive collection of tropical flora and orchids.",
+          "In Kandy:",
+          "Visit Kandy Market, Arts & Crafts showroom.",
+          "Panoramic view from Upper Lake Drive.",
+          "Witness a Cultural Dance Show with fire walking."
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-abdulla-faiz-7yPjauuz858-unsplash.jpg",
+            "alt": "Elephants bathing in the river at Pinnawala Elephant Orphanage, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 2 - Kandy to Nuwara Eliya",
+        "distance": "75 km / 3 hours",
+        "items": [
+          "Morning: Visit the Temple of the Sacred Tooth Relic — Sri Lanka’s most venerated Buddhist shrine.",
+          "Proceed to Nuwara Eliya via scenic hill roads.",
+          "En route visit:",
+          "Tea Plantation & Factory: Observe tea plucking and processing. Taste fresh Ceylon Tea.",
+          "In Nuwara Eliya:",
+          "Colonial charm, cool climate, and lush landscapes.",
+          "Home to one of the best 18-hole golf courses in Asia.",
+          "Dinner & Overnight Stay: Nuwara Eliya"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-temple-of-tooth.jpg",
+            "alt": "The Temple of the Tooth Relic in Kandy, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 3 - Horton Plains & Nuwara Eliya City Tour",
+        "distance": null,
+        "items": [
+          "Early Morning: Depart with packed breakfast to Horton Plains National Park by private jeep.",
+          "Hike to World’s End and Baker’s Falls – stunning viewpoints and natural beauty.",
+          "Afternoon:",
+          "Visit Hakgala Botanical Garden – famous for roses, orchids, and ferns.",
+          "Nuwara Eliya sightseeing: Gregory Lake, Golf Course, Hill Club, local market.",
+          "Dinner & Overnight Stay: Nuwara Eliya"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Nuwara Eliya to Yala",
+        "distance": "150 km / 4 hours",
+        "items": [
+          "After breakfast, transfer to Yala via scenic hill country and dry zone plains.",
+          "Evening at leisure at your hotel near the park.",
+          "Dinner & Overnight Stay: Yala"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-DSC_2145-Enhanced-NR-scaled.jpg",
+            "alt": "Two leopards resting on a tree trunk in Yala National Park, Sri Lanka during a wildlife safari"
+          }
+        ]
+      },
+      {
+        "title": "Day 5 - Yala National Park – Wildlife Safari",
+        "distance": null,
+        "items": [
+          "Morning Safari: Explore Yala National Park by private jeep.",
+          "Rich in wildlife including leopards, elephants, sloth bears, deer, crocodiles & birds.",
+          "Afternoon at leisure at hotel (optional activities available).",
+          "Dinner & overnight at Yala."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 6 - Yala to Galle via Bundala",
+        "distance": "150 km / 2.5 hours",
+        "items": [
+          "Morning: Depart for Galle",
+          "En route visit:",
+          "Bundala National Park: Wetland sanctuary ideal for birdwatching (Ramsar site).",
+          "In Galle:",
+          "Colonial coastal city rich in history and charm.",
+          "Dinner & Overnight Stay: Galle"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-hector-john-periquin-c0xnToEoL34-unsplash-scaled.jpg",
+            "alt": "Historic architecture of Galle Fort, Sri Lanka, showcasing colonial walls and buildings"
+          }
+        ]
+      },
+      {
+        "title": "Day 7 - Galle to Bentota",
+        "distance": "75 km / 1.5 hours",
+        "items": [
+          "Morning Galle Tour:",
+          "Explore the Galle Dutch Fort, lighthouse, and museums.",
+          "En route stops:",
+          "Ambalangoda: Mask Museum & devil dance heritage.",
+          "Lunuganga Estate: Visit Geoffrey Bawa’s tropical garden estate, a masterpiece of landscape design.",
+          "Dinner & Overnight Stay: Bentota"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 8 - Bentota to Airport",
+        "distance": "120 km / 3 hours",
+        "items": [
+          "Morning at leisure at the beach (optional water sports).",
+          "Colombo City Tour (optional):",
+          "Drive through Fort, Pettah Bazaar, Cinnamon Gardens, Town Hall, BMICH, and visit a temple/church.",
+          "Proceed to Bandaranaike International Airport for departure."
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple.",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge."
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 7 NIGHTS 8 DAYS: EMBRACE THE BEAUTY AND CULTURE OF SRI LANKA",
+    "price": "USD 4199 Per Person on Twin Sharing Basis (Conditions Apply)",
+    "highlights": [
+      "Baby elephants at Pinnawala Elephant Orphanage",
+      "Temple of the Sacred Tooth Relic and Peradeniya Botanical Garden",
+      "Hike to World's End and Baker's Falls in Horton Plains",
+      "Jeep safari in Yala, home to leopards, elephants and sloth bears",
+      "Birdwatching in Bundala and the Galle Dutch Fort"
+    ],
+    "categories": [
+      "Wildlife",
+      "Culture",
+      "Nature",
+      "Beach"
+    ],
+    "seoTitle": "8-Day Sri Lanka Wildlife & Culture Tour | Kawaiki",
+    "seoDescription": "8-day Sri Lanka tour: Yala leopard safari, Bundala birding, Horton Plains, Kandy's Temple of the Tooth, Galle Fort and Bentota beach. From USD 4,199.",
+    "ja": {
+      "title": "自然と文化をめぐるツアー",
+      "summary": "8日間でスリランカの魅力を存分に味わうツアーです。美しいビーチ、景色の良い高原、色とりどりの植物園、ヤーラとブンダラ国立公園でのスリリングなサファリを組み合わせました。仏歯寺、ホートン・プレインズ、ゴールのオランダ要塞などの名所を訪れ、ピンナワラの子ゾウやペラデニヤの珍しいランとの出会いも楽しめます。自然や野生動物、文化が好きな方に最適な、冒険とくつろぎ、豊かな歴史がバランスよく詰まった旅です。",
+      "duration": "7泊8日 スリランカツアー：ビーチ・国立公園・植物園・高原",
+      "price": "お一人様 USD 4,199（2名1室利用・条件あり）",
+      "itineraryTitle": "7泊8日の旅程：スリランカの自然と文化を満喫",
+      "imageAlt": "スリランカの野生動物探訪で木の枝に寝そべるヒョウ",
+      "heroAlt": "スリランカの野生動物探訪で木の枝に寝そべるヒョウ",
+      "days": [
+        {
+          "title": "1日目 - コロンボ空港からピンナワラ経由でキャンディへ",
+          "distance": "100 km / 3時間",
+          "items": [
+            "バンダラナイケ国際空港に到着。担当者がお出迎えします。",
+            "キャンディへ移動。",
+            "途中の見学：",
+            "ピンナワラ象の孤児園：哺乳瓶でミルクを飲む子ゾウや、毎日の川での水浴びを見学（写真撮影に最適）。",
+            "ペラデニヤ植物園：熱帯植物やランの豊富なコレクションを見学。",
+            "キャンディにて：",
+            "キャンディ市場や工芸品店を訪問。",
+            "アッパーレイク・ドライブからの眺望。",
+            "火渡りを含む伝統舞踊ショーを鑑賞。"
+          ]
+        },
+        {
+          "title": "2日目 - キャンディからヌワラエリヤへ",
+          "distance": "75 km / 3時間",
+          "items": [
+            "午前：スリランカで最も崇敬される仏教寺院、仏歯寺を参拝。",
+            "景色の美しい山道を通ってヌワラエリヤへ。",
+            "途中の見学：",
+            "紅茶農園と紅茶工場：茶摘みと製茶の工程を見学し、淹れたてのセイロンティーを試飲。",
+            "ヌワラエリヤにて：",
+            "コロニアルな街並み、涼しい気候、緑豊かな景色。",
+            "アジア屈指の18ホールのゴルフコースがあります。",
+            "夕食・宿泊：ヌワラエリヤ"
+          ]
+        },
+        {
+          "title": "3日目 - ホートン・プレインズとヌワラエリヤ市内観光",
+          "items": [
+            "早朝：朝食のお弁当を持って、専用ジープでホートン・プレインズ国立公園へ。",
+            "ワールズエンドとベーカーズ滝へのハイキング。絶景と美しい自然を楽しめます。",
+            "午後：",
+            "バラ、ラン、シダで有名なハッガラ植物園を見学。",
+            "ヌワラエリヤ観光：グレゴリー湖、ゴルフコース、ヒルクラブ、地元の市場。",
+            "夕食・宿泊：ヌワラエリヤ"
+          ]
+        },
+        {
+          "title": "4日目 - ヌワラエリヤからヤーラへ",
+          "distance": "150 km / 4時間",
+          "items": [
+            "朝食後、高原地帯と乾燥地帯の平原を抜けてヤーラへ。",
+            "夕方は公園近くのホテルで自由時間。",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "5日目 - ヤーラ国立公園でサファリ",
+          "items": [
+            "午前のサファリ：専用ジープでヤーラ国立公園を探検。",
+            "ヒョウ、ゾウ、ナマケグマ、シカ、ワニ、野鳥など多くの野生動物が暮らしています。",
+            "午後はホテルで自由時間（オプションあり）。",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "6日目 - ヤーラからブンダラ経由でゴールへ",
+          "distance": "150 km / 2.5時間",
+          "items": [
+            "午前：ゴールへ出発",
+            "途中の見学：",
+            "ブンダラ国立公園：バードウォッチングに最適な湿地の保護区（ラムサール条約登録地）。",
+            "ゴールにて：",
+            "歴史と魅力あふれるコロニアルな海辺の街。",
+            "夕食・宿泊：ゴール"
+          ]
+        },
+        {
+          "title": "7日目 - ゴールからベントタへ",
+          "distance": "75 km / 1.5時間",
+          "items": [
+            "午前のゴール観光：",
+            "ゴールのオランダ要塞、灯台、博物館を見学。",
+            "途中の立ち寄り先：",
+            "アンバランゴダ：仮面博物館と悪魔の踊りの伝統。",
+            "ルヌガンガ：ジェフリー・バワによる熱帯庭園。ランドスケープデザインの傑作です。",
+            "夕食・宿泊：ベントタ"
+          ]
+        },
+        {
+          "title": "8日目 - ベントタから空港へ",
+          "distance": "120 km / 3時間",
+          "items": [
+            "午前はビーチで自由時間（マリンスポーツはオプション）。",
+            "コロンボ市内観光（オプション）：",
+            "フォート地区、ペター・バザール、シナモン・ガーデンズ、市庁舎、BMICH をめぐり、寺院または教会を訪問。",
+            "バンダラナイケ国際空港へお送りし、ご出発。"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "ピンナワラ象の孤児園の子ゾウ",
+        "仏歯寺とペラデニヤ植物園",
+        "ホートン・プレインズのワールズエンドとベーカーズ滝へのハイキング",
+        "ヒョウ、ゾウ、ナマケグマが暮らすヤーラでのジープサファリ",
+        "ブンダラでのバードウォッチングとゴールのオランダ要塞"
+      ],
+      "seoTitle": "8日間 スリランカ自然・文化・サファリツアー | カワイキ",
+      "seoDescription": "ヤーラでのヒョウのサファリ、ブンダラの野鳥、ホートン・プレインズ、仏歯寺、ゴール要塞、ベントタのビーチをめぐる8日間のスリランカツアー。USD 4,199〜。"
+    }
+  },
+  {
+    "title": "Exotic Sri Lanka Tour",
+    "image": "/images/2025-06-Sigiriya-elephant-1024.jpg",
+    "imageAlt": "Tourist on an elephant with Sigiriya Rock Fortress in the background, Sri Lanka",
+    "duration": "EXCLUSIVE 13 NIGHTS & 14 DAYS EXOTIC TOUR PACKAGE",
+    "summary": "DISCOVER SRI LANKA'S MOST ICONIC DESTINATIONS with our exclusive 14-day luxury tour package! This comprehensive 13-night itinerary combines cultural heritage, wildlife safaris, and beach relaxation for the ultimate Sri Lankan adventure.",
+    "slug": "exotic-sri-lanka-tour",
+    "hero": {
+      "src": "/images/2025-06-Sigiriya-elephant-1024.jpg",
+      "alt": "Tourist on an elephant with Sigiriya Rock Fortress in the background, Sri Lanka"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Arrival to Colombo Airport | Colombo",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "Warm Sri Lankan welcome with garlands by Kawaiki Tours & Travels representative at the airport.",
+          "Transfer to Colombo.",
+          "Optional: Casino night, fine dining, or nightlife.",
+          "Dinner & Overnight in Colombo."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 2 - Colombo to Dambulla",
+        "distance": "160 km / 4 hours",
+        "items": [
+          "After breakfast, travel to Dambulla.",
+          "En route sightseeing and optional elephant ride.",
+          "Dinner & Overnight Stay: Dambulla"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-dambulla-1024.jpg",
+            "alt": "Buddha statues and ancient murals inside Dambulla Cave Temple in Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 3 - Excursion to Anuradhapura",
+        "distance": "75 km / 1.5 hours",
+        "items": [
+          "Full-day excursion to Anuradhapura – Sri Lanka’s first ancient capital.",
+          "Visit sacred sites: Ruwanweliseya, Sri Maha Bodhi, Jetavanaramaya, Samadhi Buddha, and more.",
+          "Return to Dambulla.",
+          "Dinner & Overnight Stay: Dambulla"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Excursion to Polonnaruwa",
+        "distance": "75 km / 1.5 hours",
+        "items": [
+          "Morning visit to Polonnaruwa, the second ancient capital.",
+          "Explore ancient ruins and Gal Vihara with its magnificent Buddha statues.",
+          "Return to Dambulla.",
+          "Dinner & Overnight Stay: Dambulla"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-polonnaruwa-1024.jpg",
+            "alt": "Watadage structure at Polonnaruwa Ancient City, Sri Lanka, featured in Kawaiki cultural tours"
+          }
+        ]
+      },
+      {
+        "title": "Day 5 - Excursion to Sigiriya",
+        "distance": "20 km / 30 minutes",
+        "items": [
+          "Visit the iconic Sigiriya Rock Fortress – 8th Wonder of the World.",
+          "Climb is moderate; not recommended for elderly or those with health conditions.",
+          "Dinner & Overnight Stay: Dambulla"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 6 - Dambulla to Kandy",
+        "distance": "75 km / 2.5 hours",
+        "items": [
+          "Visit Dambulla Cave Temple, an ancient rock temple with stunning murals and Buddha statues.",
+          "En route to Kandy:",
+          "Visit Spice Garden, Batik Factory, and Wood Carving Center.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-temple-of-tooth.jpg",
+            "alt": "The Temple of the Tooth Relic in Kandy, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 7 - Kandy & Pinnawala",
+        "distance": "150 km / 3.5 hours",
+        "items": [
+          "Morning visit to Pinnawala Elephant Orphanage.",
+          "Afternoon tour in Kandy:",
+          "Visit Gem Museum, Royal Botanical Gardens, and the Temple of the Sacred Tooth Relic.",
+          "Evening: Enjoy a spectacular Cultural Dance Show.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-abdulla-faiz-7yPjauuz858-unsplash.jpg",
+            "alt": "Elephants bathing in the river at Pinnawala Elephant Orphanage, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 8 - Kandy to Nuwara Eliya",
+        "distance": "175 km / 3 hours",
+        "items": [
+          "Scenic drive through misty mountains.",
+          "Tea Plantation & Tea Factory & Waterfall visit",
+          "Discover the charm of Nuwara Eliya, “Little England” of Sri Lanka.",
+          "Dinner & Overnight Stay: Nuwara Eliya"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-iStock-1129121269-scaled.jpg",
+            "alt": "Couple in love at tea plantation. Travel to Sri Lanka. Green tea plantations in the mountains. Guy and girl traveling around Asia. Man and woman traveling. Tea plantations in Sri Lanka. Loving couple"
+          }
+        ]
+      },
+      {
+        "title": "Day 9 - Nuwara Eliya to Yala",
+        "distance": "150 km / 5 hours",
+        "items": [
+          "Travel to Yala via scenic Ella Gap",
+          "Stop for refreshments and photo ops en route.",
+          "Stop at Waterfalls",
+          "Dinner & Overnight Stay: Yala"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 10 - Yala Safari",
+        "distance": "150 km / 5 hours",
+        "items": [
+          "Morning at leisure.",
+          "Afternoon Jeep Safari in Yala National Park, Sri Lanka’s most famous wildlife reserve.",
+          "Spot elephants, leopards, sloth bears, crocodiles, and diverse birdlife.",
+          "Dinner & Overnight Stay: Yala"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-DSC_2145-Enhanced-NR-scaled.jpg",
+            "alt": "Two leopards resting on a tree trunk in Yala National Park, Sri Lanka during a wildlife safari"
+          }
+        ]
+      },
+      {
+        "title": "Day 11 - Yala to Bentota via Galle",
+        "distance": "200 km / 3 hours",
+        "items": [
+          "Drive along the southern coast.",
+          "Visit:",
+          "Stilt Fishermen",
+          "UNESCO World Heritage Site: Galle Fort",
+          "Dinner & Overnight Stay: Bentota"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 12 & 13 - Bentota (Leisure Days)",
+        "distance": null,
+        "items": [
+          "Relax on the golden beaches.",
+          "Optional water sports, Ayurveda spa, or river cruises.",
+          "Dinner & Overnight Stay: Bentota"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-thambili-1024.jpg",
+            "alt": "Couple relaxing on a tropical Sri Lankan beach, toasting with king coconuts"
+          }
+        ]
+      },
+      {
+        "title": "Day 14 - Bentota to Airport",
+        "distance": "100 km / 1.5 hours",
+        "items": [
+          "After breakfast, transfer to the airport for departure with wonderful memories."
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple.",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge."
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "Drive times approximate and are for one way, return drives will take roughly double the time",
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 13 NIGHTS 14 DAYS EXOTIC TOUR OF SRI LANKA",
+    "price": "USD 3000 Per Person on Twin Sharing Basis (Conditions Apply)",
+    "highlights": [
+      "Ancient capitals Anuradhapura and Polonnaruwa",
+      "Sigiriya Rock Fortress and Dambulla Cave Temple",
+      "Temple of the Sacred Tooth Relic, Pinnawala elephants and a cultural dance show",
+      "Tea country, waterfalls and the Ella Gap",
+      "Jeep safari in Yala National Park",
+      "Stilt fishermen, Galle Fort and two beach days in Bentota"
+    ],
+    "categories": [
+      "Culture",
+      "Wildlife",
+      "Nature",
+      "Beach"
+    ],
+    "seoTitle": "14-Day Sri Lanka Tour: Culture, Safari & Beach | Kawaiki",
+    "seoDescription": "Two weeks in Sri Lanka: Sigiriya, Anuradhapura, Polonnaruwa, Kandy, tea country, a Yala safari and Bentota beach days. Tailor-made, from USD 3,000.",
+    "ja": {
+      "title": "エキゾチック・スリランカ周遊ツアー",
+      "summary": "スリランカを代表する名所をめぐる、14日間の特別な周遊ツアーです。13泊の充実した旅程で、文化遺産、野生動物のサファリ、ビーチでのくつろぎを組み合わせた、究極のスリランカ旅行をお楽しみいただけます。",
+      "duration": "13泊14日 特別周遊ツアー",
+      "price": "お一人様 USD 3,000（2名1室利用・条件あり）",
+      "itineraryTitle": "13泊14日 スリランカ周遊の旅程",
+      "imageAlt": "シーギリヤ・ロックを背景にゾウに乗る旅行者",
+      "heroAlt": "シーギリヤ・ロックを背景にゾウに乗る旅行者",
+      "days": [
+        {
+          "title": "1日目 - コロンボ空港到着 | コロンボ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "空港でカワイキの担当者が花輪で温かくお出迎えします。",
+            "コロンボへ移動。",
+            "オプション：カジノ、ディナー、ナイトライフ。",
+            "夕食・宿泊：コロンボ"
+          ]
+        },
+        {
+          "title": "2日目 - コロンボからダンブッラへ",
+          "distance": "160 km / 4時間",
+          "items": [
+            "朝食後、ダンブッラへ。",
+            "途中で観光、ゾウ乗り体験はオプション。",
+            "夕食・宿泊：ダンブッラ"
+          ]
+        },
+        {
+          "title": "3日目 - アヌラーダプラ観光",
+          "distance": "75 km / 1.5時間",
+          "items": [
+            "スリランカ最初の古都アヌラーダプラを1日かけて観光。",
+            "ルワンウェリ・サーヤ、スリー・マハー菩提樹、ジェータワナ・ラーマヤ、サマーディ仏などの聖地を訪問。",
+            "ダンブッラへ戻ります。",
+            "夕食・宿泊：ダンブッラ"
+          ]
+        },
+        {
+          "title": "4日目 - ポロンナルワ観光",
+          "distance": "75 km / 1.5時間",
+          "items": [
+            "午前、2番目の古都ポロンナルワを訪問。",
+            "古代遺跡と、見事な仏像が並ぶガル・ヴィハーラを見学。",
+            "ダンブッラへ戻ります。",
+            "夕食・宿泊：ダンブッラ"
+          ]
+        },
+        {
+          "title": "5日目 - シーギリヤ観光",
+          "distance": "20 km / 30分",
+          "items": [
+            "「世界8番目の不思議」とも呼ばれるシーギリヤ・ロックを訪問。",
+            "登頂は中程度の運動量のため、ご高齢の方や健康に不安のある方にはおすすめしません。",
+            "夕食・宿泊：ダンブッラ"
+          ]
+        },
+        {
+          "title": "6日目 - ダンブッラからキャンディへ",
+          "distance": "75 km / 2.5時間",
+          "items": [
+            "見事な壁画と仏像が残る古代の石窟寺院、ダンブッラ石窟寺院を見学。",
+            "キャンディへの途中で：",
+            "スパイスガーデン、バティック工房、木彫りセンターを訪問。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "7日目 - キャンディとピンナワラ",
+          "distance": "150 km / 3.5時間",
+          "items": [
+            "午前、ピンナワラ象の孤児園を訪問。",
+            "午後のキャンディ観光：",
+            "宝石博物館、王立植物園、仏歯寺を訪問。",
+            "夜：迫力ある伝統舞踊ショーを鑑賞。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "8日目 - キャンディからヌワラエリヤへ",
+          "distance": "175 km / 3時間",
+          "items": [
+            "霧に包まれた山々を抜ける景色の良いドライブ。",
+            "紅茶農園、紅茶工場、滝を見学",
+            "スリランカの「リトル・イングランド」、ヌワラエリヤの魅力を体験。",
+            "夕食・宿泊：ヌワラエリヤ"
+          ]
+        },
+        {
+          "title": "9日目 - ヌワラエリヤからヤーラへ",
+          "distance": "150 km / 5時間",
+          "items": [
+            "景色の美しいエラ・ギャップを通ってヤーラへ",
+            "途中で休憩と写真撮影。",
+            "滝に立ち寄り",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "10日目 - ヤーラでサファリ",
+          "distance": "150 km / 5時間",
+          "items": [
+            "午前は自由時間。",
+            "午後、スリランカで最も有名な野生動物保護区、ヤーラ国立公園でジープサファリ。",
+            "ゾウ、ヒョウ、ナマケグマ、ワニ、多彩な野鳥を探します。",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "11日目 - ヤーラからゴール経由でベントタへ",
+          "distance": "200 km / 3時間",
+          "items": [
+            "南海岸沿いをドライブ。",
+            "見学：",
+            "ストルト・フィッシング（竹馬漁）",
+            "ユネスコ世界遺産：ゴール要塞",
+            "夕食・宿泊：ベントタ"
+          ]
+        },
+        {
+          "title": "12・13日目 - ベントタ（自由日）",
+          "items": [
+            "黄金色のビーチでのんびり。",
+            "マリンスポーツ、アーユルヴェーダスパ、リバークルーズはオプション。",
+            "夕食・宿泊：ベントタ"
+          ]
+        },
+        {
+          "title": "14日目 - ベントタから空港へ",
+          "distance": "100 km / 1.5時間",
+          "items": [
+            "朝食後、素晴らしい思い出とともに空港へお送りします。"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "所要時間は目安で片道の時間です。往復の場合はおよそ2倍の時間がかかります",
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "古都アヌラーダプラとポロンナルワ",
+        "シーギリヤ・ロックとダンブッラ石窟寺院",
+        "仏歯寺、ピンナワラのゾウ、伝統舞踊ショー",
+        "紅茶の高原、滝、エラ・ギャップ",
+        "ヤーラ国立公園でのジープサファリ",
+        "竹馬漁、ゴール要塞、ベントタでの2日間のビーチ"
+      ],
+      "seoTitle": "14日間 スリランカ周遊ツアー：文化・サファリ・ビーチ | カワイキ",
+      "seoDescription": "シーギリヤ、アヌラーダプラ、ポロンナルワ、キャンディ、紅茶の高原、ヤーラでのサファリ、ベントタのビーチをめぐる2週間のスリランカ周遊。USD 3,000〜。"
+    }
+  },
+  {
+    "title": "Discover the Gems of Sri Lanka",
+    "image": "/images/2025-06-gem-1024.jpg",
+    "imageAlt": "Sri Lankan gem miner washing and inspecting gemstones at a traditional mine",
+    "duration": "9 NIGHTS 10 DAYS GEM MINING TOUR IN SRI LANKA",
+    "summary": "Explore the treasures of Sri Lanka on this immersive 10-day gem mining tour. Begin your journey in Colombo before heading to Ratnapura, the island’s famed City of Gems, where you’ll witness traditional gem mining techniques and visit working gem pits. Continue your adventure with a wildlife safari in Yala National Park, home to elephants, leopards, and exotic birds. Enjoy birdwatching in Bundala National Park and relax on the stunning beaches of Bentota. The tour ends with a cultural city tour of Colombo. This Sri Lanka travel package is perfect for gem enthusiasts, nature lovers, and those seeking an authentic island experience.",
+    "slug": "discover-gems",
+    "hero": {
+      "src": "/images/2025-06-gem-1024.jpg",
+      "alt": "Sri Lankan gem miner washing and inspecting gemstones at a traditional mine"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Arrival to Colombo Airport | Colombo",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "Arrive at Bandaranaike International Airport (Katunayake).",
+          "Meet, greet, and transfer to Colombo.",
+          "Evening: Colombo city tour, including Galle Face Green, Pettah Bazaar, Independence Square, and Cinnamon Gardens.",
+          "Dinner & Overnight in Colombo."
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-gem-1024.jpg",
+            "alt": "Sri Lankan gem miner washing and inspecting gemstones at a traditional mine"
+          }
+        ]
+      },
+      {
+        "title": "Day 2 - Colombo to Rathnapura (City of Gems)",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "After breakfast, proceed to Ratnapura, the heart of Sri Lanka's gem industry.",
+          "En route, view the surrounding tea and rubber plantations.",
+          "Evening: Visit a traditional gem pit and observe surface-level mining activity.",
+          "Dinner & Overnight in Ratnapura."
+        ],
+        "images": [
+          {
+            "src": "/images/2026-02-gem.jpg",
+            "alt": "gem"
+          },
+          {
+            "src": "/images/2026-02-gem-cutting.jpg",
+            "alt": "gem-cutting"
+          }
+        ]
+      },
+      {
+        "title": "Day 3 - Gem Mining Exploration in Ratnapura",
+        "distance": null,
+        "items": [
+          "After breakfast, a full-day tour of working gem pits.",
+          "Learn the methods of traditional pit mining: vertical shafts, gravel beds, water pumping, and timber reinforcement.",
+          "Observe firsthand how precious gems are extracted from the earth.",
+          "Dinner & Overnight in Ratnapura."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Rathnapura to Yala",
+        "distance": "150 km / 3.5 hours",
+        "items": [
+          "Morning transfer to Yala.",
+          "Rest of the day at leisure at the hotel.",
+          "Dinner & Overnight at Yala."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 5 - Yala National Park & Bundala Safari",
+        "distance": null,
+        "items": [
+          "Yala National Park & Bundala Safari",
+          "Afternoon: Evening safari in Bundala National Park, a Ramsar wetland famous for migratory birds.",
+          "Dinner & Overnight at Yala."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 6 - Yala to Rathnapura",
+        "distance": null,
+        "items": [
+          "Morning: Travel back to Ratnapura.",
+          "Afternoon: Return to gem mining pits to observe mining in action.",
+          "Dinner & Overnight in Ratnapura."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 7 - Gem Washing & Evaluation in Ratnapura",
+        "distance": "150 km / 3.5 hours",
+        "items": [
+          "Visit a site where gem washing and sorting is performed.",
+          "Learn how expert miners inspect gravel for valuable stones using traditional techniques.",
+          "See how gems are identified by color, transparency, and structure.",
+          "Dinner & Overnight in Ratnapura."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 8 - Rathnapura to Galle & Bentota",
+        "distance": "150 km / 4 hours",
+        "items": [
+          "After breakfast, depart for Bentota via the southern coastal route.",
+          "Stop for a city tour of Galle, including the UNESCO World Heritage Dutch Fort.",
+          "Continue to Bentota beach for relaxation.",
+          "Dinner & Overnight in Bentota."
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-thambili-1024.jpg",
+            "alt": "Couple relaxing on a tropical Sri Lankan beach, toasting with king coconuts"
+          }
+        ]
+      },
+      {
+        "title": "Day 9 - Bentota to Colombo",
+        "distance": "80 km / 1.5 hours",
+        "items": [
+          "Morning: Free time to enjoy Bentota Beach.",
+          "Later, return to Colombo.",
+          "Optional: Evening shopping or leisure time.",
+          "Dinner & Overnight in Colombo."
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 10 - Colombo to Airport",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "After breakfast, Colombo city highlights tour (if not covered earlier), including:",
+          "Pettah Market, Town Hall, BMICH, temples, and colonial buildings.",
+          "Transfer to Bandaranaike International Airport for departure."
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple.",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge."
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "Drive times approximate and are for one way, return drives will take roughly double the time",
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 9 NIGHTS 10 DAYS GEM MINING TOUR IN SRI LANKA",
+    "price": "USD 2500 Per Person on Twin Sharing Basis (Conditions Apply)",
+    "highlights": [
+      "Full-day tour of working gem pits in Ratnapura, the City of Gems",
+      "Learn traditional pit mining, gem washing and evaluation",
+      "Yala National Park and a Bundala safari for migratory birds",
+      "Galle's UNESCO-listed Dutch Fort",
+      "Beach time in Bentota and a Colombo city tour"
+    ],
+    "categories": [
+      "Gems",
+      "Wildlife",
+      "Beach"
+    ],
+    "seoTitle": "10-Day Sri Lanka Gem Mining Tour, Ratnapura | Kawaiki",
+    "seoDescription": "See traditional gem mining in Ratnapura, Sri Lanka's City of Gems: working pits, gem washing and evaluation, plus a Yala safari and beach. From USD 2,500.",
+    "ja": {
+      "title": "スリランカの宝石を発見するツアー",
+      "summary": "10日間でスリランカの「宝」をたずねる、宝石採掘ツアーです。コロンボを出発し、島で名高い「宝石の街」ラトナプラへ。伝統的な採掘技術を見学し、現役の採掘場を訪れます。さらにゾウやヒョウ、珍しい野鳥が暮らすヤーラ国立公園でのサファリ、ブンダラ国立公園でのバードウォッチング、ベントタの美しいビーチでのくつろぎも。最後はコロンボの市内観光で締めくくります。宝石好きの方、自然好きの方、本物の島の体験を求める方にぴったりのツアーです。",
+      "duration": "9泊10日 スリランカ宝石採掘ツアー",
+      "price": "お一人様 USD 2,500（2名1室利用・条件あり）",
+      "itineraryTitle": "9泊10日 スリランカ宝石採掘ツアーの旅程",
+      "imageAlt": "伝統的な採掘場で宝石を洗い、確かめるスリランカの採掘職人",
+      "heroAlt": "伝統的な採掘場で宝石を洗い、確かめるスリランカの採掘職人",
+      "days": [
+        {
+          "title": "1日目 - コロンボ空港到着 | コロンボ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "バンダラナイケ国際空港（カトゥナヤケ）に到着。",
+            "お出迎え後、コロンボへ移動。",
+            "夕方：ゴール・フェイス・グリーン、ペター・バザール、独立記念広場、シナモン・ガーデンズを含むコロンボ市内観光。",
+            "夕食・宿泊：コロンボ"
+          ]
+        },
+        {
+          "title": "2日目 - コロンボからラトナプラ（宝石の街）へ",
+          "distance": "100 km / 3時間",
+          "items": [
+            "朝食後、スリランカの宝石産業の中心地ラトナプラへ。",
+            "途中、周辺の紅茶農園やゴム農園を眺めます。",
+            "夕方：伝統的な採掘場を訪れ、地表での採掘作業を見学。",
+            "夕食・宿泊：ラトナプラ"
+          ]
+        },
+        {
+          "title": "3日目 - ラトナプラで宝石採掘を探訪",
+          "items": [
+            "朝食後、現役の採掘場を1日かけて見学。",
+            "垂直の坑道、砂礫層、水の汲み上げ、木材での補強など、伝統的な採掘方法を学びます。",
+            "貴重な宝石が大地から掘り出される様子を間近で見学。",
+            "夕食・宿泊：ラトナプラ"
+          ]
+        },
+        {
+          "title": "4日目 - ラトナプラからヤーラへ",
+          "distance": "150 km / 3.5時間",
+          "items": [
+            "午前、ヤーラへ移動。",
+            "その後はホテルで自由時間。",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "5日目 - ヤーラ国立公園とブンダラでサファリ",
+          "items": [
+            "ヤーラ国立公園とブンダラでのサファリ",
+            "午後：渡り鳥で有名なラムサール条約登録湿地、ブンダラ国立公園で夕方のサファリ。",
+            "夕食・宿泊：ヤーラ"
+          ]
+        },
+        {
+          "title": "6日目 - ヤーラからラトナプラへ",
+          "items": [
+            "午前：ラトナプラへ戻ります。",
+            "午後：再び採掘場を訪れ、作業の様子を見学。",
+            "夕食・宿泊：ラトナプラ"
+          ]
+        },
+        {
+          "title": "7日目 - ラトナプラで宝石の洗浄と鑑定",
+          "distance": "150 km / 3.5時間",
+          "items": [
+            "宝石の洗浄と選別が行われる場所を訪問。",
+            "熟練の採掘職人が伝統的な技術で砂礫から価値ある石を見つける方法を学びます。",
+            "色、透明度、構造で宝石を見分ける方法を見学。",
+            "夕食・宿泊：ラトナプラ"
+          ]
+        },
+        {
+          "title": "8日目 - ラトナプラからゴール経由でベントタへ",
+          "distance": "150 km / 4時間",
+          "items": [
+            "朝食後、南海岸ルートでベントタへ。",
+            "ユネスコ世界遺産のオランダ要塞を含むゴール市内を観光。",
+            "ベントタのビーチへ移動し、ゆったりと過ごします。",
+            "夕食・宿泊：ベントタ"
+          ]
+        },
+        {
+          "title": "9日目 - ベントタからコロンボへ",
+          "distance": "80 km / 1.5時間",
+          "items": [
+            "午前：ベントタのビーチで自由時間。",
+            "その後、コロンボへ戻ります。",
+            "オプション：夜のショッピングや自由時間。",
+            "夕食・宿泊：コロンボ"
+          ]
+        },
+        {
+          "title": "10日目 - コロンボから空港へ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "朝食後、コロンボの見どころ観光（初日に訪れていない場合）：",
+            "ペター市場、市庁舎、BMICH、寺院、コロニアル建築など。",
+            "バンダラナイケ国際空港へお送りし、ご出発。"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "所要時間は目安で片道の時間です。往復の場合はおよそ2倍の時間がかかります",
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "「宝石の街」ラトナプラで現役の採掘場を1日見学",
+        "伝統的な採掘、宝石の洗浄と鑑定を学ぶ",
+        "ヤーラ国立公園と、渡り鳥のブンダラでのサファリ",
+        "ゴールのユネスコ世界遺産、オランダ要塞",
+        "ベントタのビーチとコロンボ市内観光"
+      ],
+      "seoTitle": "10日間 スリランカ宝石採掘ツアー（ラトナプラ） | カワイキ",
+      "seoDescription": "「宝石の街」ラトナプラで伝統的な宝石採掘を見学。現役の採掘場、宝石の洗浄と鑑定に、ヤーラでのサファリとビーチも楽しめる10日間。USD 2,500〜。"
+    }
+  },
+  {
+    "title": "Luxury Golf Escape",
+    "image": "/images/2025-06-Golf.webp",
+    "imageAlt": "Guest playing golf on a lush course during a Kawaiki golf tour in Sri Lanka",
+    "duration": "8 NIGHTS 9 DAYS GOLF TOUR IN SRI LANKA",
+    "summary": "Discover the perfect blend of luxury, leisure, and breathtaking landscapes on this 9-day Sri Lanka Golf Tour. Tee off at world-renowned courses including Colombo Royal Golf Club, Victoria Golf Resort in Kandy, and the scenic Nuwara Eliya Golf Club. Explore iconic cultural sites like the Temple of the Tooth Relic and Royal Botanical Gardens while enjoying top-tier hospitality at boutique hotels. Whether you're chasing birdies or unforgettable travel moments, this golf holiday delivers the ultimate experience across Sri Lanka’s highlands and coast.",
+    "slug": "luxury-golf-escape",
+    "hero": {
+      "src": "/images/2025-06-pexels-ah360-1409004-short.jpg",
+      "alt": "Guest swinging a golf club on a lush golf course during a Kawaiki Tours & Travels golf tour in Sri Lanka"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Arrival in Colombo Airport – Transfer to Negombo",
+        "distance": "20 minutes",
+        "items": [
+          "Arrival at Bandaranaike International Airport (CMB)",
+          "Transfer to Negombo Beach (20 minutes)",
+          "Check-in to beachfront hotel/resort.",
+          "Relax after the flight: Beach Walk, sunset cocktails.",
+          "Overnight: Negombo"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 2 - Royal Colombo Golf Club",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "Early breakfast and transfer to Royal Colombo Golf Club (~1 hr).",
+          "18 holes of golf at the oldest golf club in Sri Lanka.",
+          "Lunch at the club.",
+          "Short Colombo city tour (Independence Square, Gangaramaya Temple)",
+          "Return to Negombo.",
+          "Overnight: Negombo"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 3 - Transfer to Kandy – Leisure",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "Breakfast and drive to Kandy (~3.5 hrs)",
+          "Stop at Pinnawala Elephant Orphanage (optional).",
+          "Check-in to a hotel near Victoria Golf & Country Resort.",
+          "Evening: Leisure time or visit the Temple of the Tooth.",
+          "Overnight: Kandy / Digana (near Victoria)"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Victoria Golf Course",
+        "distance": null,
+        "items": [
+          "Breakfast.",
+          "18 holes at Victoria Golf & Country Resort – scenic and challenging.",
+          "Lunch at the club.",
+          "Optional: Short nature walk or spa session in the area.",
+          "Overnight: Victoria Golf Resort / Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-rene-vincent-torralba-HueEXJwZFOM-unsplash-scaled.jpg",
+            "alt": "Beautiful golf course with lush green fairways in Sri Lanka, featured in Kawaiki golf tours"
+          },
+          {
+            "src": "/images/2025-06-brian-kungu-aP25OoSdltI-unsplash-1-scaled.jpg",
+            "alt": "Guest playing golf on a lush course during a Kawaiki golf tour in Sri Lanka"
+          },
+          {
+            "src": "/images/2025-06-mick-haupt-m0iXio5FF7M-unsplash-1-scaled.jpg",
+            "alt": "Guest playing golf on a lush green golf course during a Kawaiki Tours & Travels golf tour in Sri Lanka"
+          },
+          {
+            "src": "/images/2025-06-steven-shircliff-N21z4eG8aKg-unsplash-scaled.jpg",
+            "alt": "Golf ball near the hole with flagpole on a lush course during a Kawaiki golf tour in Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 5 - Leisure or 2nd Round at Victoria",
+        "distance": null,
+        "items": [
+          "Optional second round of golf at Victoria",
+          "Alternatively: Visit Peradeniya Botanical Gardens or enjoy hotel leisure.",
+          "Evening: Cultural show in Kandy (optional).",
+          "Overnight: Kandy"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 6 - Drive to Nuwara Eliya",
+        "distance": "50 km / 2 hours",
+        "items": [
+          "Scenic drive through the tea country (~3-4 hrs)",
+          "En route visit a tea factory and plantations.",
+          "Check-in to a colonial-style hotel in Nuwara Eliya (\"Little England\")",
+          "Evening: Stroll around Gregory Lake.",
+          "Overnight: Nuwara Eliya"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 7 - Nuwara Eliya Golf Club",
+        "distance": null,
+        "items": [
+          "Breakfast.",
+          "18 holes at Nuwara Eliya Golf Club, one of Asia’s oldest and most picturesque.",
+          "Afternoon: Free time or visit Hakgala Botanical Gardens.",
+          "Overnight: Nuwara Eliya"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 8 - Return to Colombo",
+        "distance": "150 km / 5.5 hours",
+        "items": [
+          "Breakfast and scenic drive back to Colombo (~5.5 hrs)",
+          "Optional stops: Ramboda Falls or a local village.",
+          "Check-in to city hotel.",
+          "Farewell dinner in Colombo.",
+          "Overnight: Colombo"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 9 - Departure",
+        "distance": "10 km / 20 minutes",
+        "items": [
+          "Breakfast.",
+          "Transfer to Bandaranaike International Airport for departure."
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Golf fees",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge"
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 8 NIGHTS 9 DAYS GOLF TOUR IN SRI LANKA",
+    "price": "USD 6299 Per Person (Conditions Apply)",
+    "highlights": [
+      "18 holes at Royal Colombo Golf Club, the oldest golf club in Sri Lanka",
+      "Scenic, challenging Victoria Golf & Country Resort, with an optional second round",
+      "Nuwara Eliya Golf Club, one of Asia's oldest and most picturesque courses",
+      "Tea country drive with a tea factory visit",
+      "Colonial-style stay in Nuwara Eliya, \"Little England\""
+    ],
+    "categories": [
+      "Golf",
+      "Nature"
+    ],
+    "seoTitle": "9-Day Sri Lanka Golf Tour: 3 Historic Courses | Kawaiki",
+    "seoDescription": "Play Royal Colombo, Victoria Golf & Country Resort and Nuwara Eliya Golf Club on a 9-day Sri Lanka golf holiday with tea country and Kandy. From USD 6,299.",
+    "ja": {
+      "title": "ラグジュアリー・ゴルフツアー",
+      "summary": "贅沢な時間、くつろぎ、息をのむ景色が一体となった、9日間のスリランカ・ゴルフツアーです。ロイヤル・コロンボ・ゴルフクラブ、キャンディのビクトリア・ゴルフリゾート、景色の美しいヌワラエリヤ・ゴルフクラブなど名門コースでプレー。仏歯寺や王立植物園などの名所を訪れ、ブティックホテルで上質なおもてなしをお楽しみいただけます。バーディーを狙う方にも、忘れられない旅の思い出を求める方にも、スリランカの高原と海岸をめぐる最高のゴルフ旅行です。",
+      "duration": "8泊9日 スリランカ・ゴルフツアー",
+      "price": "お一人様 USD 6,299（条件あり）",
+      "itineraryTitle": "8泊9日 スリランカ・ゴルフツアーの旅程",
+      "imageAlt": "スリランカのカワイキ・ゴルフツアーで緑豊かなコースをプレーするゲスト",
+      "heroAlt": "スリランカのゴルフコースでクラブを振るカワイキ・ゴルフツアーのゲスト",
+      "days": [
+        {
+          "title": "1日目 - コロンボ空港到着、ニゴンボへ",
+          "distance": "20分",
+          "items": [
+            "バンダラナイケ国際空港（CMB）に到着",
+            "ニゴンボ・ビーチへ移動（20分）",
+            "ビーチフロントのホテル・リゾートにチェックイン。",
+            "フライトの疲れを癒やして：ビーチの散歩、夕日とカクテル。",
+            "宿泊：ニゴンボ"
+          ]
+        },
+        {
+          "title": "2日目 - ロイヤル・コロンボ・ゴルフクラブ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "早めの朝食後、ロイヤル・コロンボ・ゴルフクラブへ（約1時間）。",
+            "スリランカ最古のゴルフクラブで18ホールをプレー。",
+            "クラブで昼食。",
+            "コロンボ市内の短い観光（独立記念広場、ガンガラーマ寺院）",
+            "ニゴンボへ戻ります。",
+            "宿泊：ニゴンボ"
+          ]
+        },
+        {
+          "title": "3日目 - キャンディへ移動、自由時間",
+          "distance": "100 km / 3時間",
+          "items": [
+            "朝食後、キャンディへ（約3.5時間）",
+            "ピンナワラ象の孤児園に立ち寄り（オプション）。",
+            "ビクトリア・ゴルフ＆カントリーリゾート近くのホテルにチェックイン。",
+            "夕方：自由時間、または仏歯寺を参拝。",
+            "宿泊：キャンディ／ディガナ（ビクトリア近郊）"
+          ]
+        },
+        {
+          "title": "4日目 - ビクトリア・ゴルフコース",
+          "items": [
+            "朝食。",
+            "景色が美しく挑戦しがいのあるビクトリア・ゴルフ＆カントリーリゾートで18ホール。",
+            "クラブで昼食。",
+            "オプション：周辺での短い自然散策やスパ。",
+            "宿泊：ビクトリア・ゴルフリゾート／キャンディ"
+          ]
+        },
+        {
+          "title": "5日目 - 自由時間、またはビクトリアで2ラウンド目",
+          "items": [
+            "ビクトリアで2ラウンド目のゴルフ（オプション）",
+            "または：ペラデニヤ植物園の見学やホテルでのんびり。",
+            "夜：キャンディで伝統舞踊ショー（オプション）。",
+            "宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "6日目 - ヌワラエリヤへドライブ",
+          "distance": "50 km / 2時間",
+          "items": [
+            "紅茶の高原を抜ける景色の良いドライブ（約3〜4時間）",
+            "途中で紅茶工場と農園を見学。",
+            "ヌワラエリヤ（「リトル・イングランド」）のコロニアル様式のホテルにチェックイン",
+            "夕方：グレゴリー湖を散策。",
+            "宿泊：ヌワラエリヤ"
+          ]
+        },
+        {
+          "title": "7日目 - ヌワラエリヤ・ゴルフクラブ",
+          "items": [
+            "朝食。",
+            "アジアで最も歴史があり美しいコースのひとつ、ヌワラエリヤ・ゴルフクラブで18ホール。",
+            "午後：自由時間、またはハッガラ植物園を見学。",
+            "宿泊：ヌワラエリヤ"
+          ]
+        },
+        {
+          "title": "8日目 - コロンボへ戻る",
+          "distance": "150 km / 5.5時間",
+          "items": [
+            "朝食後、景色を楽しみながらコロンボへ（約5.5時間）",
+            "オプションの立ち寄り：ランボダ滝や地元の村。",
+            "市内のホテルにチェックイン。",
+            "コロンボでフェアウェルディナー。",
+            "宿泊：コロンボ"
+          ]
+        },
+        {
+          "title": "9日目 - ご出発",
+          "distance": "10 km / 20分",
+          "items": [
+            "朝食。",
+            "バンダラナイケ国際空港へお送りし、ご出発。"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "グリーンフィー",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "スリランカ最古のゴルフクラブ、ロイヤル・コロンボで18ホール",
+        "景色が美しく挑戦しがいのあるビクトリア・ゴルフ＆カントリーリゾート（2ラウンド目はオプション）",
+        "アジアで最も歴史があり美しいコースのひとつ、ヌワラエリヤ・ゴルフクラブ",
+        "紅茶工場の見学付き、紅茶の高原ドライブ",
+        "「リトル・イングランド」ヌワラエリヤのコロニアルなホテル滞在"
+      ],
+      "seoTitle": "9日間 スリランカ・ゴルフツアー：3つの名門コース | カワイキ",
+      "seoDescription": "ロイヤル・コロンボ、ビクトリア・ゴルフ＆カントリーリゾート、ヌワラエリヤ・ゴルフクラブでプレーし、紅茶の高原とキャンディも楽しむ9日間。USD 6,299〜。"
+    }
+  },
+  {
+    "title": "Romantic Getaway",
+    "image": "/images/2025-06-iStock-1129121269-scaled.jpg",
+    "imageAlt": "Couple in love at tea plantation. Travel to Sri Lanka. Green tea plantations in the mountains. Guy and girl traveling around Asia. Man and woman traveling. Tea plantations in Sri Lanka. Loving couple",
+    "duration": "4-DAY, 3-NIGHT EXCLUSIVE HOLIDAY PACKAGE – KANDY, NUWARA ELIYA & COLOMBO",
+    "summary": "Experience a dreamy 4-day romantic getaway in Sri Lanka with our exclusive tour package! Explore the cultural charm of Kandy, visit the sacred Temple of the Tooth, and stroll through the lush Royal Botanical Gardens. Marvel at the breathtaking tea plantations and waterfalls in Nuwara Eliya, and enjoy a heartwarming visit to the Pinnawala Elephant Orphanage. Discover vibrant Colombo with its shopping and dining delights. This romantic Sri Lanka tour includes spice gardens, batik factories, cultural shows, and scenic beauty—perfect for couples seeking a memorable escape. Book now for an unforgettable 3-night, 4-day luxury holiday!",
+    "slug": "romantic-getaway",
+    "hero": {
+      "src": "/images/2025-06-iStock-1129121269-scaled.jpg",
+      "alt": "Couple in love at tea plantation. Travel to Sri Lanka. Green tea plantations in the mountains. Guy and girl traveling around Asia. Man and woman traveling. Tea plantations in Sri Lanka. Loving couple"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Airport to Kandy",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "Warm welcome at the airport with fragrant garlands by Kawaiki Tours & Travels representative.",
+          "Scenic drive to the hill capital – Kandy.",
+          "Afternoon:",
+          "City tour of Kandy",
+          "Drive past the picturesque Upper Lake",
+          "Visit the revered Temple of the Sacred Tooth Relic, a UNESCO World Heritage Site",
+          "Evening:",
+          "Attend a colourful Cultural Dance Show, featuring Kandyan, Ruhunu, and Sabaragamuwa performances followed by a thrilling fire show.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-temple-of-tooth.jpg",
+            "alt": "The Temple of the Tooth Relic in Kandy, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 2 - Kandy – Nuwara Eliya – Kandy",
+        "distance": "75 km / 3 hours",
+        "items": [
+          "After breakfast",
+          "Visit a Gem Lapidary & Wood Carving Workshop",
+          "Proceed to Nuwara Eliya, known as “Little England”",
+          "After breakfast",
+          "Explore the Royal Botanical Gardens in Peradeniya – home to over 4,000 plant species across 67 hectares.",
+          "Stop at Tea Plantations, Tea Factory, and scenic waterfalls",
+          "After breakfast",
+          "City tour of Nuwara Eliya",
+          "Discover colonial architecture, mountain views, and tranquil lakes",
+          "Return to Kandy.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-MG_6071-copy.jpg",
+            "alt": "Lush green tea plantations in the upcountry hills of Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 3 - Kandy – Colombo – Negombo",
+        "distance": "200 km / 4 hours",
+        "items": [
+          "After breakfast, head to Colombo via Pinnawala Elephant Orphanage:",
+          "Watch and help feed baby elephants – a heartwarming experience!",
+          "Visit:",
+          "Spice Garden – learn about local herbs & spices",
+          "Batik Factory – witness the making of traditional batik prints",
+          "Proceed to Colombo for a short city and shopping tour:",
+          "Shop at Odel, Barefoot, Lakmedura, House of Fashion, Paradise Road & more",
+          "Discover colonial architecture, mountain views, and tranquil lakes",
+          "Evening transfer to Negombo, a charming coastal town.",
+          "Dinner & Overnight Stay: Negombo"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Negombo to Airport",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "Enjoy a relaxed breakfast",
+          "Transfer to the airport for your departure with unforgettable memories of your romantic escape in Sri Lanka."
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple.",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge."
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "Drive times approximate and are for one way, return drives will take roughly double the time",
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 3 NIGHTS 4 DAYS ROMANTIC GETAWAY IN SRI LANKA",
+    "price": "USD 2299 Per Person on Twin Sharing Basis (Conditions Apply)",
+    "highlights": [
+      "Garland welcome at the airport",
+      "Temple of the Sacred Tooth Relic in Kandy",
+      "Tea plantations, a tea factory and waterfalls in Nuwara Eliya",
+      "Royal Botanical Gardens in Peradeniya",
+      "Feed baby elephants at Pinnawala",
+      "Spice garden, batik factory and Colombo shopping"
+    ],
+    "categories": [
+      "Romantic",
+      "Culture",
+      "Nature"
+    ],
+    "seoTitle": "4-Day Sri Lanka Romantic Getaway for Couples | Kawaiki",
+    "seoDescription": "A 4-day Sri Lanka escape for couples: Kandy's Temple of the Tooth, tea plantations and waterfalls in Nuwara Eliya, Pinnawala and Colombo. From USD 2,299.",
+    "ja": {
+      "title": "ロマンチック・ゲッタウェイ",
+      "summary": "夢のような4日間をスリランカで過ごす、カップル・ご夫婦向けの特別なツアーです。文化の都キャンディで神聖な仏歯寺を参拝し、緑豊かな王立植物園を散策。ヌワラエリヤの息をのむ紅茶畑と滝を眺め、ピンナワラ象の孤児園で心温まるひとときを。コロンボではショッピングとグルメも楽しめます。スパイスガーデン、バティック工房、伝統舞踊ショー、美しい景色も含まれた、思い出に残るロマンチックな3泊4日の旅です。",
+      "duration": "3泊4日 特別ホリデー：キャンディ・ヌワラエリヤ・コロンボ",
+      "price": "お一人様 USD 2,299（2名1室利用・条件あり）",
+      "itineraryTitle": "3泊4日 スリランカ・ロマンチック旅行の旅程",
+      "imageAlt": "スリランカの高原の茶畑で景色を眺めるカップル",
+      "heroAlt": "スリランカの高原の茶畑で景色を眺めるカップル",
+      "days": [
+        {
+          "title": "1日目 - 空港からキャンディへ",
+          "distance": "100 km / 3時間",
+          "items": [
+            "空港でカワイキの担当者が香り高い花輪で温かくお出迎え。",
+            "景色の良い道を高原の古都キャンディへ。",
+            "午後：",
+            "キャンディ市内観光",
+            "美しいアッパーレイクをドライブ",
+            "ユネスコ世界遺産、仏歯寺を参拝",
+            "夜：",
+            "キャンディ、ルフヌ、サバラガムワの舞踊と迫力ある火のショーが楽しめる、色鮮やかな伝統舞踊ショーを鑑賞。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "2日目 - キャンディ〜ヌワラエリヤ〜キャンディ",
+          "distance": "75 km / 3時間",
+          "items": [
+            "朝食後",
+            "宝石研磨工房と木彫り工房を見学",
+            "「リトル・イングランド」と呼ばれるヌワラエリヤへ",
+            "朝食後",
+            "4,000種以上の植物が67ヘクタールに広がる、ペラデニヤの王立植物園を散策。",
+            "紅茶農園、紅茶工場、美しい滝に立ち寄り",
+            "朝食後",
+            "ヌワラエリヤ市内観光",
+            "コロニアル建築、山の景色、静かな湖を楽しむ",
+            "キャンディへ戻ります。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "3日目 - キャンディ〜コロンボ〜ニゴンボ",
+          "distance": "200 km / 4時間",
+          "items": [
+            "朝食後、ピンナワラ象の孤児園を経由してコロンボへ：",
+            "子ゾウの様子を見学し、エサやりも体験。心温まるひとときです！",
+            "見学：",
+            "スパイスガーデン：地元のハーブやスパイスについて学ぶ",
+            "バティック工房：伝統的なバティック染めの工程を見学",
+            "コロンボで短い市内観光とショッピング：",
+            "Odel、Barefoot、Lakmedura、House of Fashion、Paradise Road などでショッピング",
+            "コロニアル建築や街の景色を楽しむ",
+            "夕方、魅力的な海辺の町ニゴンボへ移動。",
+            "夕食・宿泊：ニゴンボ"
+          ]
+        },
+        {
+          "title": "4日目 - ニゴンボから空港へ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "ゆっくりと朝食",
+            "スリランカでのロマンチックな旅の思い出とともに、空港へお送りします。"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "所要時間は目安で片道の時間です。往復の場合はおよそ2倍の時間がかかります",
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "空港での花輪のお出迎え",
+        "キャンディの仏歯寺",
+        "ヌワラエリヤの紅茶農園、紅茶工場、滝",
+        "ペラデニヤの王立植物園",
+        "ピンナワラで子ゾウにエサやり",
+        "スパイスガーデン、バティック工房、コロンボでのショッピング"
+      ],
+      "seoTitle": "4日間 スリランカ ロマンチック旅行（カップル向け） | カワイキ",
+      "seoDescription": "キャンディの仏歯寺、ヌワラエリヤの紅茶畑と滝、ピンナワラ、コロンボをめぐる、カップル・ご夫婦向け4日間のスリランカ旅行。USD 2,299〜。"
+    }
+  },
+  {
+    "title": "Explore Paradise",
+    "image": "/images/2025-06-dambulla-1024.jpg",
+    "imageAlt": "Buddha statues and ancient murals inside Dambulla Cave Temple in Sri Lanka",
+    "duration": "7-DAY | 6 NIGHTS SRI LANKA TOUR PACKAGE: EXPLORE ANCIENT CITIES, WILDLIFE & CULTURE",
+    "summary": "Discover Sri Lanka’s rich heritage and breathtaking landscapes with our 7-day, 6-night luxury tour package! This immersive journey takes you through UNESCO-listed ancient cities, lush botanical gardens, and iconic wildlife encounters, offering the perfect blend of culture, history, and nature.",
+    "slug": "explore-paradise",
+    "hero": {
+      "src": "/images/2025-06-dambulla-1024.jpg",
+      "alt": "Buddha statues and ancient murals inside Dambulla Cave Temple in Sri Lanka"
+    },
+    "days": [
+      {
+        "title": "Day 1 - Airport to Kandy via Pinnawala",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "Arrive at Bandaranaike International Airport, Katunayake.",
+          "Meet & greet by Kawaiki Tours & Travels representative with garlands.",
+          "Transfer to Kandy, the cultural capital of Sri Lanka.",
+          "En route visit the Pinnawala Elephant Orphanage:",
+          "Watch baby elephants being bottle-fed.",
+          "Witness their playful river bathing – a photographer’s delight.",
+          "Evening visit to the Temple of the Sacred Tooth Relic:",
+          "One of the most venerated Buddhist temples in the world.",
+          "Explore its spiritual ambiance and golden-roofed shrine.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-abdulla-faiz-7yPjauuz858-unsplash.jpg",
+            "alt": "Elephants bathing in the river at Pinnawala Elephant Orphanage, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 2 - Kandy – Peradeniya – City Tour",
+        "distance": "160 km / 4 hours",
+        "items": [
+          "Breakfast at hotel",
+          "Morning visit to the Royal Botanical Gardens – Peradeniya:",
+          "147 acres of beautifully manicured gardens",
+          "Famous Orchid House and rare tropical flora",
+          "Afternoon city tour:",
+          "Kandy Market",
+          "Arts & Crafts showroom",
+          "Upper Lake Drive for panoramic views",
+          "University of Peradeniya premises",
+          "Evening: Witness a vibrant Kandyan Cultural Show, featuring traditional dances and fire-walking.",
+          "Dinner & Overnight Stay: Kandy"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-temple-of-tooth.jpg",
+            "alt": "The Temple of the Tooth Relic in Kandy, Sri Lanka"
+          }
+        ]
+      },
+      {
+        "title": "Day 3 - Kandy – Dambulla – Habarana",
+        "distance": "100 km / 3 hours",
+        "items": [
+          "After breakfast, proceed to Habarana.",
+          "En route, visit the Hakgala Botanical Garden (Optional if time permits).",
+          "Stop at the Dambulla Cave Temple – Golden Rock Temple:",
+          "A UNESCO World Heritage Site",
+          "Home to 5 stunning cave sanctuaries filled with statues and frescoes",
+          "Highlights include a 47 ft. reclining Buddha",
+          "Arrive in Habarana and relax.",
+          "Dinner & Overnight Stay: Habarana"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 4 - Habarana to Polonnaruwa",
+        "distance": "75 km / 1.5 hours",
+        "items": [
+          "Breakfast at hotel",
+          "Full-day excursion to Polonnaruwa, the medieval capital (11th–13th century):",
+          "Discover the ancient irrigation marvels (reservoirs and tanks)",
+          "Return to hotel and unwind.",
+          "Dinner & Overnight Stay: Habarana / Polonnaruwa"
+        ],
+        "images": [
+          {
+            "src": "/images/2025-06-polonnaruwa-1024.jpg",
+            "alt": "Watadage structure at Polonnaruwa Ancient City, Sri Lanka, featured in Kawaiki cultural tours"
+          }
+        ]
+      },
+      {
+        "title": "Day 5 - Polonnaruwa – Anuradhapura – Return",
+        "distance": "100 km / 1 hour",
+        "items": [
+          "Breakfast and proceed to Anuradhapura, Sri Lanka’s first capital (4th century BC):",
+          "Explore Sri Maha Bodhi Tree – over 2,200 years old",
+          "Visit sacred sites: Ruwanwelisaya, Jetavanaramaya, Abhayagiri, Isurumuniya, and ancient monastic ruins",
+          "Marvel at the ancient irrigation systems",
+          "Return to Polonnaruwa.",
+          "Dinner & Overnight Stay: Polonnaruwa"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 6 - Polonnaruwa to Colombo",
+        "distance": "225 km / 5 hours",
+        "items": [
+          "After breakfast, drive to Colombo, Sri Lanka’s bustling commercial capital.",
+          "En route sightseeing and shopping tour of Colombo:",
+          "Drive through Fort, Pettah Bazaars, Cinnamon Gardens, and Independence Square",
+          "Visit BMICH, Gangaramaya Temple, and Dutch Church",
+          "Shop at Odel, Barefoot, One Gallface Mall and Paradise Road",
+          "Dinner & Overnight Stay: Colombo"
+        ],
+        "images": []
+      },
+      {
+        "title": "Day 7 - Colombo to Airport",
+        "distance": "50 km / 1 hour",
+        "items": [
+          "Transfer to Bandaranaike International Airport for departure"
+        ],
+        "images": []
+      }
+    ],
+    "includes": [
+      "Meet, Welcome and assist on arrival at the airport and assist on departure to airport.",
+      "Accommodation sharing double/ triple.",
+      "Meals on a half board basis (breakfast & dinner)",
+      "Entrance & Location guide fees at Locations (as per sightseeing mentioned above)",
+      "Lunch from outside restaurant",
+      "Air-conditioned private transport.",
+      "English/French/Russian/Arabic speaking chauffeur-guide.",
+      "Government tax and service charge."
+    ],
+    "excludes": [
+      "Items of a personal nature such as laundry, telephone calls, tipping, etc.",
+      "Alcoholic and non-Alcoholic beverages at all hotels.",
+      "Mineral water and other beverages.",
+      "Gratuities.",
+      "Any supplement not mentioned above.",
+      "Any items specifically not mentioned in the itinerary.",
+      "Air fare."
+    ],
+    "notes": [
+      "Drive times approximate and are for one way, return drives will take roughly double the time",
+      "All hotels on availability",
+      "Itinerary can be changed according to arrival and departure time",
+      "Cost will be changed according to the number of pax."
+    ],
+    "gallery": [],
+    "itineraryTitle": "ITINERARY FOR 6 NIGHTS 7 DAYS EXPLORING SRI LANKA",
+    "price": "USD 2250 Per Person on Twin Sharing Basis (Conditions Apply)",
+    "highlights": [
+      "Baby elephants at Pinnawala Elephant Orphanage",
+      "Peradeniya Botanical Gardens and its Orchid House",
+      "Dambulla Cave Temple, a UNESCO World Heritage Site",
+      "The medieval capital of Polonnaruwa",
+      "Sri Maha Bodhi and the sacred sites of Anuradhapura",
+      "Colombo sightseeing and shopping"
+    ],
+    "categories": [
+      "Culture"
+    ],
+    "seoTitle": "7-Day Sri Lanka Ancient Cities & Culture Tour | Kawaiki",
+    "seoDescription": "Seven days through Sri Lanka's cultural triangle: Kandy, Dambulla Cave Temple, Polonnaruwa and Anuradhapura, with Pinnawala elephants. From USD 2,250.",
+    "ja": {
+      "title": "楽園探訪ツアー",
+      "summary": "スリランカの豊かな文化遺産と息をのむ風景を発見する、6泊7日のツアーです。ユネスコ世界遺産の古代都市、緑豊かな植物園、象徴的な野生動物との出会いをめぐり、文化・歴史・自然をバランスよく楽しめます。",
+      "duration": "6泊7日 スリランカツアー：古代都市・野生動物・文化をめぐる",
+      "price": "お一人様 USD 2,250（2名1室利用・条件あり）",
+      "itineraryTitle": "6泊7日 スリランカ探訪の旅程",
+      "imageAlt": "スリランカのダンブッラ石窟寺院の仏像と古代の壁画",
+      "heroAlt": "スリランカのダンブッラ石窟寺院の仏像と古代の壁画",
+      "days": [
+        {
+          "title": "1日目 - 空港からピンナワラ経由でキャンディへ",
+          "distance": "100 km / 3時間",
+          "items": [
+            "バンダラナイケ国際空港（カトゥナヤケ）に到着。",
+            "カワイキの担当者が花輪でお出迎え。",
+            "スリランカの文化の都キャンディへ移動。",
+            "途中、ピンナワラ象の孤児園を訪問：",
+            "哺乳瓶でミルクを飲む子ゾウを見学。",
+            "川で楽しそうに水浴びする様子は写真好きにはたまりません。",
+            "夕方、仏歯寺を参拝：",
+            "世界で最も崇敬される仏教寺院のひとつ。",
+            "神聖な雰囲気と黄金の屋根の祠堂を見学。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "2日目 - キャンディ〜ペラデニヤ〜市内観光",
+          "distance": "160 km / 4時間",
+          "items": [
+            "ホテルで朝食",
+            "午前、ペラデニヤの王立植物園を訪問：",
+            "美しく手入れされた147エーカーの庭園",
+            "有名なラン園と珍しい熱帯植物",
+            "午後の市内観光：",
+            "キャンディ市場",
+            "工芸品店",
+            "アッパーレイク・ドライブからの眺望",
+            "ペラデニヤ大学のキャンパス",
+            "夜：伝統舞踊と火渡りが楽しめる、華やかなキャンディアン・ダンスを鑑賞。",
+            "夕食・宿泊：キャンディ"
+          ]
+        },
+        {
+          "title": "3日目 - キャンディ〜ダンブッラ〜ハバラナ",
+          "distance": "100 km / 3時間",
+          "items": [
+            "朝食後、ハバラナへ。",
+            "途中、ハッガラ植物園を見学（時間があればオプション）。",
+            "ダンブッラ石窟寺院（黄金寺院）に立ち寄り：",
+            "ユネスコ世界遺産",
+            "仏像やフレスコ画に彩られた5つの見事な石窟",
+            "全長47フィート（約14m）の涅槃仏は必見",
+            "ハバラナに到着し、ゆったりと過ごします。",
+            "夕食・宿泊：ハバラナ"
+          ]
+        },
+        {
+          "title": "4日目 - ハバラナからポロンナルワへ",
+          "distance": "75 km / 1.5時間",
+          "items": [
+            "ホテルで朝食",
+            "中世の都（11〜13世紀）ポロンナルワを1日かけて観光：",
+            "古代の驚くべき灌漑施設（貯水池・ため池）を見学",
+            "ホテルに戻ってくつろぎます。",
+            "夕食・宿泊：ハバラナ／ポロンナルワ"
+          ]
+        },
+        {
+          "title": "5日目 - ポロンナルワ〜アヌラーダプラ〜ポロンナルワ",
+          "distance": "100 km / 1時間",
+          "items": [
+            "朝食後、スリランカ最初の都（紀元前4世紀）アヌラーダプラへ：",
+            "樹齢2,200年以上のスリー・マハー菩提樹を見学",
+            "ルワンウェリ・サーヤ、ジェータワナ・ラーマヤ、アバヤギリ、イスルムニヤ、古代の僧院跡などの聖地を訪問",
+            "古代の灌漑システムに驚く",
+            "ポロンナルワへ戻ります。",
+            "夕食・宿泊：ポロンナルワ"
+          ]
+        },
+        {
+          "title": "6日目 - ポロンナルワからコロンボへ",
+          "distance": "225 km / 5時間",
+          "items": [
+            "朝食後、活気ある商業の中心地コロンボへ。",
+            "コロンボで観光とショッピング：",
+            "フォート地区、ペター・バザール、シナモン・ガーデンズ、独立記念広場をドライブ",
+            "BMICH、ガンガラーマ寺院、オランダ教会を訪問",
+            "Odel、Barefoot、One Galle Face Mall、Paradise Road でショッピング",
+            "夕食・宿泊：コロンボ"
+          ]
+        },
+        {
+          "title": "7日目 - コロンボから空港へ",
+          "distance": "50 km / 1時間",
+          "items": [
+            "バンダラナイケ国際空港へお送りし、ご出発"
+          ]
+        }
+      ],
+      "includes": [
+        "空港到着時のお出迎え・サポート、およびご出発時の空港までのサポート",
+        "2名または3名1室利用での宿泊",
+        "2食付き（朝食・夕食）",
+        "観光地の入場料・現地ガイド料（上記の観光内容による）",
+        "昼食（外部レストラン）",
+        "エアコン付き専用車での移動",
+        "英語・フランス語・ロシア語・アラビア語を話すドライバーガイド",
+        "政府税・サービス料"
+      ],
+      "excludes": [
+        "洗濯代、通話料、チップなど個人的な費用",
+        "すべてのホテルでのアルコール・ソフトドリンク",
+        "ミネラルウォーターその他の飲み物",
+        "心付け",
+        "上記に記載のない追加料金",
+        "旅程に明記されていないもの",
+        "航空券"
+      ],
+      "notes": [
+        "所要時間は目安で片道の時間です。往復の場合はおよそ2倍の時間がかかります",
+        "ホテルはすべて空き状況によります",
+        "到着・出発時刻に合わせて旅程を変更できます",
+        "料金は人数により変動します"
+      ],
+      "highlights": [
+        "ピンナワラ象の孤児園の子ゾウ",
+        "ペラデニヤ植物園とラン園",
+        "ユネスコ世界遺産、ダンブッラ石窟寺院",
+        "中世の都ポロンナルワ",
+        "スリー・マハー菩提樹とアヌラーダプラの聖地",
+        "コロンボでの観光とショッピング"
+      ],
+      "seoTitle": "7日間 スリランカ古代都市・文化ツアー | カワイキ",
+      "seoDescription": "キャンディ、ダンブッラ石窟寺院、ポロンナルワ、アヌラーダプラをめぐり、ピンナワラのゾウにも会えるスリランカ文化三角地帯の7日間。USD 2,250〜。"
+    }
+  }
+]

@@ -1,26 +1,162 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-teal: #22d4d6;
+  --color-teal-dark: #13a9ab;
+  --color-pink: #e44993;
+  --color-blue: #227bc3;
+  --color-sky: #1d6aa8;
+  --color-orange: #f96a17;
+  --color-ink: #0a0a0b;
+  --color-sand: #f6f8f8;
+  --font-sans: var(--font-cabin), ui-sans-serif, system-ui, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: #ffffff;
+  color: #111;
+  font-family: var(--font-sans);
+}
+
+/* Japanese pages: Latin letters in Cabin, Japanese in the device's own Japanese font (no download). */
+html[lang="ja"] body {
+  font-family: var(--font-cabin), "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic UI", "Yu Gothic", YuGothic, Meiryo, "Noto Sans CJK JP", "Noto Sans JP", sans-serif;
+  line-height: 1.8;
+  word-break: normal;
+  overflow-wrap: anywhere;
+  line-break: strict;
+}
+
+html[lang="ja"] .heading {
+  letter-spacing: 0.04em;
+}
+
+.container-x {
+  width: 100%;
+  max-width: 960px;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
+
+@media (min-width: 768px) {
+  .container-x {
+    padding-inline: 1.5rem;
+  }
+}
+
+/* Section titles: uppercase, light weight, teal rule under the text. */
+.heading {
+  display: inline-block;
+  position: relative;
+  font-size: clamp(2rem, 4.5vw, 2.8rem);
+  font-weight: 400;
+  line-height: 1.1;
+  text-transform: uppercase;
+  padding-inline: 2rem;
+}
+
+.heading::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -0.15em;
+  height: 2px;
+  background: var(--color-teal);
+}
+
+.heading-left {
+  padding-left: 0;
+}
+
+.field {
+  width: 100%;
+  border: 1px solid var(--color-teal);
+  border-radius: 0;
+  background: rgb(255 255 255 / 0.9);
+  padding: 0.6rem 0.75rem;
+  font-size: 0.95rem;
+  color: #111;
+  outline: none;
+  transition: box-shadow 0.15s;
+}
+
+.field:focus {
+  box-shadow: 0 0 0 3px rgb(34 212 214 / 0.3);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border-radius: 4px;
+  padding: 0.6rem 1.4rem;
+  font-weight: 500;
+  transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+}
+
+.btn:disabled {
+  opacity: 0.7;
+}
+
+.btn-teal {
+  background: var(--color-teal);
+  color: var(--color-ink);
+}
+
+.btn-teal:hover {
+  background: #1bbfc1;
+}
+
+.btn-outline {
+  border: 2px solid #fff;
+  color: #fff;
+}
+
+.btn-outline:hover {
+  background: #fff;
+  color: var(--color-ink);
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-6px);
+  }
+}
+
+.hover-float:hover {
+  animation: float 1.2s ease-in-out infinite;
+}
+
+.no-scrollbar {
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* On tour pages, phones show a price bar at the bottom; lift the WhatsApp bubble above it. */
+@media (max-width: 1023px) {
+  body:has(.tour-mobile-bar) .wa-float {
+    bottom: 5.25rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .hover-float:hover {
+    animation: none;
+  }
 }
